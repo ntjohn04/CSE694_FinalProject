@@ -1,0 +1,1 @@
+all data is included in the repository. the notebook will run from top to bottom with all requirements installed (used python 3.13). See notebook comments for implementation details.
